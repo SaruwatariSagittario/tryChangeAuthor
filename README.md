@@ -18,9 +18,16 @@ this is list :
 
 ## bullet list
 * sol
+  * mercury
+  * venus
+  * earth
+  * mars
 * lunar
-* mercury
-* venus
+  * jupiter
+  * saturn
+  * neptune
+  * pluto 
+
 
 ## images
 ![Image of solidus](https://wotv-calc.com/assets/cards/lapsrobust_full.png)
