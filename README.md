@@ -23,6 +23,4 @@ this is list :
 * venus
 
 ## images
-![Image of Wotv]
-
-(https://photos.google.com/photo/AF1QipPAANcHyhbYPuWJ--_ji9bV1iZdrgVpPNQfENeR)
+![Image of innovation](https://stockphoto.com/samples/NTU3OTEzMzMwMDAxMWY1YmNmYjBlZA==/MjIxMWY1YmNmYjBlZA==/have-an-idea.jpg&size=1024)
