@@ -23,4 +23,7 @@ this is list :
 * venus
 
 ## images
-![Image of innovation](https://stockphoto.com/samples/NTU3OTEzMzMwMDAxMWY1YmNmYjBlZA==/MjIxMWY1YmNmYjBlZA==/have-an-idea.jpg&size=1024)
+![Image of solidus](https://wotv-calc.com/assets/cards/lapsrobust_full.png)
+![Image of caelum](https://wotv-calc.com/assets/cards/lapssoky_full.png)
+![Image of deceptive vow](https://wotv-calc.com/assets/cards/lapsvnla2_full.png)
+![Image of vow of love](https://wotv-calc.com/assets/cards/lapsprop_full.png)
