@@ -8,10 +8,16 @@ banana potato
 
 ## second section
 
-### list
+### numbered list
 
 this is list :
 1. all might
 2. endevour 
 3. hawk
 4. jeanist
+
+## bullet list
+* sol
+* lunar
+* mercury
+* venus
